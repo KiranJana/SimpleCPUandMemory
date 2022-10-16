@@ -1,0 +1,222 @@
+// Line 1
+1 // Printing 5 Spaces
+32
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1 // Printing 2 forward slashes
+95
+9
+2
+9
+2
+1 // Printing  two backslash
+47
+9
+2
+9
+2
+1 // New line
+10
+9
+2
+// Line 2
+1 // Printing spaces
+32
+9
+2
+9
+2
+9
+2
+9
+2
+1 //printing backslash
+47
+9
+2
+1
+32
+9
+2
+1 // Printing two dots
+46
+9
+2
+9
+2
+1
+32
+9
+2
+1 //printing forward slashes
+92
+9
+2
+1 // new line
+10
+9
+2
+// Line 3
+1 //Printing spaces
+32
+9
+2
+9
+2
+9
+2
+9
+2
+1 //Printing forward slashes
+92
+9
+2
+1
+32
+9
+2
+1
+92
+9
+2
+1  // printing backslash
+47
+9
+2
+1
+32
+9
+2
+1
+47
+9
+2
+1  // new line
+10
+9
+2
+//Line 4
+1
+32
+9
+2
+9
+2
+1  // Printing two underscore
+95
+9
+2
+1
+95
+9
+2
+1 /. printing back slash
+47
+9
+2
+1
+32
+9
+2
+1  // Printing K
+75
+9
+2
+1
+32
+9
+2
+9
+2
+1 // printing forward slash
+92
+9
+2
+1
+10
+9
+2
+//Line 6
+1 // Printing space
+32
+9
+2
+9
+2
+1
+92
+9
+2
+1
+32
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1 // printing outer parenthese
+41
+9
+2
+1
+10
+9
+2
+//Line 7
+1 // printing 4 spaces
+32
+9
+2
+9
+2
+9
+2
+1 // Printing forward slash
+92
+9
+2
+1 // Printing underscore
+95
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1 // Printing backslash
+47
+9
+2
+1
+10
+9
+2
+
+
+50
+
+
+
+.1000
+30
